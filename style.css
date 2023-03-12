@@ -1,11 +1,11 @@
-html, body {
-  background: blue;
+body {
+  background: gray;
 }
 
 nav {
   display: flex;
   place-content: space-between;
-  background: orange;
+  background: black;
 }
 
 nav a {
@@ -17,6 +17,6 @@ nav a {
 }
 
 nav a:hover {
-  background-color: black;
-  color: white;
+  background-color: white;
+  color: black;
 }
